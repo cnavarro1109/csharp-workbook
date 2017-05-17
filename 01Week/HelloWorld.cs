@@ -1,10 +1,13 @@
-using System;
+// using System;
 
-public class Program
-{
-    public static void Main()
-    {
-        Console.WriteLine("Hello!");
-        return;
-    }
-}
+// namespace ConsoleApplication
+// {
+// public class HelloWorld
+// {
+//     public static void Main()
+//     {
+//         Console.WriteLine("Hello!");
+//         return;
+//     }
+// }
+// }
