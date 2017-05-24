@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v1.1": {
-      "02Week/1.0.0": {
+      "02week/1.0.0": {
         "runtime": {
           "02Week.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "02Week/1.0.0": {
+    "02week/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

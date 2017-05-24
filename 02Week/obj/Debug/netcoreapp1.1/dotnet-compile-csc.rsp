@@ -82,6 +82,7 @@
 -r:"/Users/Carlos/.nuget/packages/System.Threading.Timer/4.3.0/ref/netstandard1.2/System.Threading.Timer.dll"
 -r:"/Users/Carlos/.nuget/packages/System.Xml.ReaderWriter/4.3.0/ref/netstandard1.3/System.Xml.ReaderWriter.dll"
 -r:"/Users/Carlos/.nuget/packages/System.Xml.XDocument/4.3.0/ref/netstandard1.3/System.Xml.XDocument.dll"
+"/Users/Carlos/Desktop/SACA-Intermediate/csharp-workbook/02Week/MyArrayExample.cs"
 "/Users/Carlos/Desktop/SACA-Intermediate/csharp-workbook/02Week/PigLatin.cs"
 "/Users/Carlos/Desktop/SACA-Intermediate/csharp-workbook/02Week/Program.cs"
 "/Users/Carlos/Desktop/SACA-Intermediate/csharp-workbook/02Week/TicTacToe.cs"
